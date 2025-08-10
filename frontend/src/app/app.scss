@@ -1,0 +1,12 @@
+.contenedor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #eef;
+
+  h1 {
+    font-size: 3rem;
+    color: #333;
+  }
+}
